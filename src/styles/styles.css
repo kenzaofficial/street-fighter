@@ -1,0 +1,10 @@
+.fighters {
+  display: flex;
+}
+.fighter {
+  text-align: center;
+}
+
+.fighter img {
+  height: 300px;
+}
